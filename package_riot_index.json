@@ -166,38 +166,38 @@
               [
                 {
                   "host": "i686-mingw32",
-                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.zip",
-                  "archiveFileName": "CMSIS_5-5.6.0.zip",
-                  "checksum": "SHA-256:B1674D58576F19D13B4B48CA5C9A26C6AAC9001337A30D173F4299E20B0652E6",
-                  "size": "73841417 "
+                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.tar.gz",
+                  "archiveFileName": "CMSIS_5-5.6.0.tar.gz",
+                  "checksum": "SHA-256:8F9CD07A751C193ECEF0CE3F4606C9981BF9C46599FAB623C7553BE9EFDE2709",
+                  "size": "71824546 "
                 },
                 {
                   "host": "x86_64-apple-darwin",
-                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.zip",
-                  "archiveFileName": "CMSIS_5-5.6.0.zip",
-                  "checksum": "SHA-256:B1674D58576F19D13B4B48CA5C9A26C6AAC9001337A30D173F4299E20B0652E6",
-                  "size": "73841417"
+                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.tar.gz",
+                  "archiveFileName": "CMSIS_5-5.6.0.tar.gz",
+                  "checksum": "SHA-256:8F9CD07A751C193ECEF0CE3F4606C9981BF9C46599FAB623C7553BE9EFDE2709",
+                  "size": "71824546"
                 },
                 {
                   "host": "x86_64-pc-linux-gnu",
-                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.zip",
-                  "archiveFileName": "CMSIS_5-5.6.0.zip",
-                  "checksum": "SHA-256:B1674D58576F19D13B4B48CA5C9A26C6AAC9001337A30D173F4299E20B0652E6",
-                  "size": "73841417"
+                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.tar.gz",
+                  "archiveFileName": "CMSIS_5-5.6.0.tar.gz",
+                  "checksum": "SHA-256:8F9CD07A751C193ECEF0CE3F4606C9981BF9C46599FAB623C7553BE9EFDE2709",
+                  "size": "71824546"
                 },
                 {
                   "host": "i686-pc-linux-gnu",
-                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.zip",
-                  "archiveFileName": "CMSIS_5-5.6.0.zip",
-                  "checksum": "SHA-256:B1674D58576F19D13B4B48CA5C9A26C6AAC9001337A30D173F4299E20B0652E6",
-                  "size": "73841417"
+                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.tar.gz",
+                  "archiveFileName": "CMSIS_5-5.6.0.tar.gz",
+                  "checksum": "SHA-256:8F9CD07A751C193ECEF0CE3F4606C9981BF9C46599FAB623C7553BE9EFDE2709",
+                  "size": "71824546"
                 },
                 {
                   "host": "all",
-                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.zip",
-                  "archiveFileName": "CMSIS_5-5.6.0.zip",
-                  "checksum": "SHA-256:B1674D58576F19D13B4B48CA5C9A26C6AAC9001337A30D173F4299E20B0652E6",
-                  "size": "73841417"
+                  "url": "https://github.com/riotnetwork/CMSIS_5/archive/5.6.0.tar.gz",
+                  "archiveFileName": "CMSIS_5-5.6.0.tar.gz",
+                  "checksum": "SHA-256:8F9CD07A751C193ECEF0CE3F4606C9981BF9C46599FAB623C7553BE9EFDE2709",
+                  "size": "71824546"
                 }
               ]
             },
@@ -208,38 +208,38 @@
               [
                 {
                   "host": "i686-mingw32",
-                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.zip",
-                  "archiveFileName": "CMSIS-Atmel-1.0.0.zip",
-                  "checksum": "SHA-256:4278AC78C2F531D9BF523DD777403DE1F3B955472525A068B94C2C68ABB0E46E",
-                  "size": "571693"
+                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.tar.gz",
+                  "archiveFileName": "CMSIS-Atmel-1.0.0.tar.gz",
+                  "checksum": "SHA-256:5DA38B88EB215060476DBE8F96787334F23E5EED6D0DD16F5091EC16DCAB81A6",
+                  "size": "430654"
                 },
                 {
                   "host": "x86_64-apple-darwin",
-                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.zip",
-                  "archiveFileName": "CMSIS-Atmel-1.0.0.zip",
-                  "checksum": "SHA-256:4278AC78C2F531D9BF523DD777403DE1F3B955472525A068B94C2C68ABB0E46E",
-                  "size": "571693"
+                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.tar.gz",
+                  "archiveFileName": "CMSIS-Atmel-1.0.0.tar.gz",
+                  "checksum": "SHA-256:5DA38B88EB215060476DBE8F96787334F23E5EED6D0DD16F5091EC16DCAB81A6",
+                  "size": "430654"
                 },
                 {
                   "host": "x86_64-pc-linux-gnu",
-                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.zip",
-                  "archiveFileName": "CMSIS-Atmel-1.0.0.zip",
-                  "checksum": "SHA-256:4278AC78C2F531D9BF523DD777403DE1F3B955472525A068B94C2C68ABB0E46E",
-                  "size": "571693"
+                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.tar.gz",
+                  "archiveFileName": "CMSIS-Atmel-1.0.0.tar.gz",
+                  "checksum": "SHA-256:5DA38B88EB215060476DBE8F96787334F23E5EED6D0DD16F5091EC16DCAB81A6",
+                  "size": "430654"
                 },
                 {
                   "host": "i686-pc-linux-gnu",
-                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.zip",
-                  "archiveFileName": "CMSIS-Atmel-1.0.0.zip",
-                  "checksum": "SHA-256:4278AC78C2F531D9BF523DD777403DE1F3B955472525A068B94C2C68ABB0E46E",
-                  "size": "571693"
+                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.tar.gz",
+                  "archiveFileName": "CMSIS-Atmel-1.0.0.tar.gz",
+                  "checksum": "SHA-256:5DA38B88EB215060476DBE8F96787334F23E5EED6D0DD16F5091EC16DCAB81A6",
+                  "size": "430654"
                 },
                 {
                   "host": "all",
-                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.zip",
-                  "archiveFileName": "CMSIS-Atmel-1.0.0.zip",
-                  "checksum": "SHA-256:4278AC78C2F531D9BF523DD777403DE1F3B955472525A068B94C2C68ABB0E46E",
-                  "size": "571693"
+                  "url": "https://github.com/riotnetwork/CMSIS-Atmel/archive/1.0.0.tar.gz",
+                  "archiveFileName": "CMSIS-Atmel-1.0.0.tar.gz",
+                  "checksum": "SHA-256:5DA38B88EB215060476DBE8F96787334F23E5EED6D0DD16F5091EC16DCAB81A6",
+                  "size": "430654"
                 }
               ]
             }
