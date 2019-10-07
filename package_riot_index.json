@@ -15,7 +15,7 @@
                 "version": "1.0.0",
                 "category": "RIOT",
                 "url": "https://github.com/riotnetwork/samr/archive/1.0.0.tar.gz",
-                "archiveFileName": "samr-1.0.0.tar.bz2",
+                "archiveFileName": "samr-1.0.0.tar.gz",
                 "checksum": "SHA-256:14CA49753361D399AF5ED0FE55A994974A67EFD76520AD94F1028F1404DE105F",
                 "size": "4348339 ",
                 "help": {
