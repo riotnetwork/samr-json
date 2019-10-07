@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "name": "RIOT",
+            "name": "riot",
             "maintainer": "RIOT network",
             "websiteURL": "http://www.riot.network",
             "email": "info@riot.network",
