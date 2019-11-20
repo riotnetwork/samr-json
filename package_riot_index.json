@@ -122,17 +122,20 @@
                   "checksum": "SHA-256:eec622b8b5a8642af94ec23febfe14c928edd734f144db73b146bf6708d2057f",
                   "size": "384792"
                 }
-              ],
-                "version": "1.7.0-riot",
+              ]
+            },
+            {
+              "name": "bossac",
+              "version": "1.7.0-riot",
               "systems": [
                  {
-                  "host": "i686-mingw32",
-                  "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.7.0-riot/bossac-1.7.0-riot-i686-w64-mingw32.tar.gz",
-                  "archiveFileName": "bossac-1.7.0-riot-i686-w64-mingw32.tar.gz",
-                  "checksum": "SHA-256:7ea15cdacdce37733d047a3ef5aa5ff6dac5fa54743a8e391881c0fd502eb8f5",
-                  "size": "355952"
-                }
-              ]
+                "host": "i686-mingw32",
+                "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.7.0-riot/bossac-1.7.0-riot-i686-w64-mingw32.tar.gz",
+                "archiveFileName": "bossac-1.7.0-riot-i686-w64-mingw32.tar.gz",
+                "checksum": "SHA-256:7ea15cdacdce37733d047a3ef5aa5ff6dac5fa54743a8e391881c0fd502eb8f5",
+                "size": "355952"
+              }
+             ]
             },
             {
               "name": "openocd",
