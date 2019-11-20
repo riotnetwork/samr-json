@@ -38,6 +38,11 @@
                     "version": "1.9.1-riot"
                   },
                   {
+                    "name": "bossac",
+                    "packager": "riot",
+                    "version": "1.7.0-riot"
+                  },
+                  {
                     "name": "openocd",
                     "packager": "arduino",
                     "version": "0.9.0-arduino"
