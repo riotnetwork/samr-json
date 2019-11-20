@@ -12,12 +12,12 @@
               {
                 "name": "RIOT Lora boards",
                 "architecture": "samr",
-                "version": "1.0.0",
+                "version": "1.0.1",
                 "category": "RIOT",
-                "url": "https://github.com/riotnetwork/samr/archive/1.0.0.tar.gz",
-                "archiveFileName": "samr-1.0.0.tar.gz",
-                "checksum": "SHA-256:14ca49753361d399af5ed0fe55a994974a67efd76520ad94f1028f1404de105f",
-                "size": "4348339 ",
+                "url": "https://github.com/riotnetwork/samr/archive/1.0.1.tar.gz",
+                "archiveFileName": "samr-1.0.1.tar.gz",
+                "checksum": "SHA-256:eb9eac5154819699100a6ea224b824b74f449489c8dbe1cd6aa2f56e45325bbf",
+                "size": "4348295",
                 "help": {
                   "online": "http://www.riot.network"
                 },
