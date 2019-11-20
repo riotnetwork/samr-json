@@ -92,14 +92,14 @@
             },
             {
               "name": "bossac",
-              "version": "1.9.1-arduino1",
+              "version": "1.9.1-riot",
               "systems": [
-                {
+                 {
                   "host": "i686-mingw32",
-                  "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-windows.tar.gz",
-                  "archiveFileName": "bossac-1.9.1-arduino1-windows.tar.gz",
-                  "checksum": "SHA-256:fe2d6ef78ca711c78e104e258357ed06b09e95e9356dc72d8d2c9f6670af4b7a",
-                  "size": "1260118"
+                  "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.9.1-riot/bossac-1.9.1-riot-i686-w64-mingw32.tar.gz",
+                  "archiveFileName": "bossac-1.9.1-riot-i686-w64-mingw32.tar.gz",
+                  "checksum": "SHA-256:ab381d7d884b565975da93d0ee3276340b612d27e5f171968c1489166a12686d",
+                  "size": "125509"
                 },
                 {
                   "host": "x86_64-apple-darwin",
