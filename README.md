@@ -14,4 +14,7 @@ JSON URL : https://raw.githubusercontent.com/riotnetwork/samr-json/master/packag
 
 * Restart Arduino IDE and look under Tools > Boards and you should see the addition of the Riot boards in your board list.
 
+## RIOT R34 Stamp
+This core is an arduino port for the Microchip ATSAMR34 and R35 Series microcontrollers - ATSAML21 with integrated LoRa Tranceivers
 
+![R34 pinout](https://github.com/riotnetwork/samr-json/blob/master/Pinouts/PNG/R34-Stamp.png)
