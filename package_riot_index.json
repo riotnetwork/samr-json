@@ -117,8 +117,8 @@
                   "host": "x86_64-pc-linux-gnu",
                   "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.9.1-riot/bossac-1.9.1-riot-linux64.tar.gz",
                   "archiveFileName": "bossac-1.9.1-riot-linux64.tar.gz",
-                  "checksum": "SHA-256:f672ccc5b5bb03b52231e231e4e189c4640b0f197864a5d0d61ab85f4cce3f78",
-                  "size": "44436"
+                  "checksum": "SHA-256:184bee070791ff0059478f0d50bffacf2fd90c0e81b237485d882e0511622039",
+                  "size": "44464 "
                 },
                 {
                   "host": "i686-pc-linux-gnu",
@@ -144,8 +144,8 @@
                 "host": "x86_64-pc-linux-gnu",
                 "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.7.0-riot/bossac-1.7.0-riot-linux64.tar.gz",
                 "archiveFileName": "bossac-1.7.0-riot-linux64.tar.gz",
-                "checksum": "SHA-256:137ef255cf5011c76cdc5e0a59cff47e9f656c033d596179dc636c6a3053f22d",
-                "size": "34773"
+                "checksum": "SHA-256:b9e093696d53083b91a320a6d19425165991ca07c80b4ec8aa27c442cd0550f2",
+                "size": "34787"
               }
              ]
             },
