@@ -122,10 +122,10 @@
                 },
                 {
                   "host": "i686-pc-linux-gnu",
-                  "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-linux32.tar.gz",
-                  "archiveFileName": "bossac-1.9.1-arduino1-linux32.tar.gz",
-                  "checksum": "SHA-256:eec622b8b5a8642af94ec23febfe14c928edd734f144db73b146bf6708d2057f",
-                  "size": "384792"
+                  "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.9.1-riot/bossac-1.9.1-riot-linux32.tar.gz",
+                  "archiveFileName": "bossac-1.9.1-riot-linux32.tar.gz",
+                  "checksum": "SHA-256:90982911a3f6fe13e9ee7feaf310be6a8fc7da7171c9fef0763b11f5b4e80e59",
+                  "size": "47204"
                 }
               ]
             },
@@ -146,6 +146,13 @@
                 "archiveFileName": "bossac-1.7.0-riot-linux64.tar.gz",
                 "checksum": "SHA-256:b9e093696d53083b91a320a6d19425165991ca07c80b4ec8aa27c442cd0550f2",
                 "size": "34787"
+              }
+              {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.9.1-riot/bossac-1.7.0-riot-linux32.tar.gz",
+              "archiveFileName": "bossac-1.7.0-riot-linux32.tar.gz",
+              "checksum": "SHA-256:2ec3b0092e97dcc968fae25bae49d567fe495728f6e938bc25e6a163f11f6ad9",
+              "size": "37125"
               }
              ]
             },
