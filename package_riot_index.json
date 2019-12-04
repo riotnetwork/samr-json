@@ -115,10 +115,10 @@
                 },
                 {
                   "host": "x86_64-pc-linux-gnu",
-                  "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-linux64.tar.gz",
-                  "archiveFileName": "bossac-1.9.1-arduino1-linux64.tar.gz",
-                  "checksum": "SHA-256:d3d324a3503a8db825c01f3b38519e4d4824c4d0e42cb399a16c1e074f9a9a86",
-                  "size": "399453"
+                  "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.9.1-riot/bossac-1.9.1-riot-linux64.tar.gz",
+                  "archiveFileName": "bossac-1.9.1-riot-linux64.tar.gz",
+                  "checksum": "SHA-256:f672ccc5b5bb03b52231e231e4e189c4640b0f197864a5d0d61ab85f4cce3f78",
+                  "size": "44436"
                 },
                 {
                   "host": "i686-pc-linux-gnu",
@@ -139,6 +139,13 @@
                 "archiveFileName": "bossac-1.7.0-riot-i686-w64-mingw32.tar.gz",
                 "checksum": "SHA-256:7ea15cdacdce37733d047a3ef5aa5ff6dac5fa54743a8e391881c0fd502eb8f5",
                 "size": "355952"
+              }
+              {
+                "host": "x86_64-pc-linux-gnu",
+                "url": "https://github.com/riotnetwork/BOSSA/releases/download/1.7.0-riot/bossac-1.7.0-riot-linux64.tar.gz",
+                "archiveFileName": "bossac-1.7.0-riot-linux64.tar.gz",
+                "checksum": "SHA-256:137ef255cf5011c76cdc5e0a59cff47e9f656c033d596179dc636c6a3053f22d",
+                "size": "34773"
               }
              ]
             },
