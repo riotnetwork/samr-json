@@ -1,5 +1,5 @@
 # samr-json
-Ciustom board definition for Arduino IDE to install packages
+Custom board definition for Arduino IDE to install packages
 
 JSON URL : https://raw.githubusercontent.com/riotnetwork/samr-json/master/package_riot_index.json
 
