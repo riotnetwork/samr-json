@@ -16,8 +16,8 @@
                 "category": "RIOT",
                 "url": "https://github.com/riotnetwork/samr/archive/1.0.3.tar.gz",
                 "archiveFileName": "samr-1.0.3.tar.gz",
-                "checksum": "SHA-256:93c018cf90254b14537ae95cd418bc6760a13aba04075082864598da4f1eb80c",
-                "size": "4340573",
+                "checksum": "SHA-256:984609a640301a88275df949cc26381171a864501880e7a26f6e327dc2e96a6f",
+                "size": "4340553",
                 "help": {
                   "online": "http://www.riot.network"
                 },
