@@ -18,13 +18,8 @@
                 "archiveFileName": "samr-1.0.5.tar.gz",
                 "checksum": "SHA-256:0f6fa57d70f32265cedb8c7400a95bd812ec05b03cf54fbc880339766e7cdd22",
                 "size": "4715471",
-                "help": {
-                  "online": "http://www.riot.network"
-                },
                 "boards": [
-                  {
-                    "name": "RIOT R34 LoRa stamp"
-                  }
+                  {"name": "RIOT R34 LoRa stamp"}
                 ],
                 "toolsDependencies": [
                   {
