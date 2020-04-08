@@ -20,7 +20,7 @@
                 "size": "4715471",
                 "help": {
                   "online": "http://www.riot.network"
-                },
+                }
                 "boards": [
                   {
                     "name": "RIOT R34 LoRa stamp"
