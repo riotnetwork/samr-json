@@ -12,12 +12,12 @@
                 {
                 "name": "RIOT Lora boards",
                 "architecture": "samr",
-                "version": "1.0.5",
+                "version": "1.0.6",
                 "category": "RIOT",
-                "url": "https://github.com/riotnetwork/samr/archive/1.0.5.tar.gz",
-                "archiveFileName": "samr-1.0.5.tar.gz",
-                "checksum": "SHA-256:0f6fa57d70f32265cedb8c7400a95bd812ec05b03cf54fbc880339766e7cdd22",
-                "size": "4715471",
+                "url": "https://github.com/riotnetwork/samr/archive/1.0.6.tar.gz",
+                "archiveFileName": "samr-1.0.6.tar.gz",
+                "checksum": "SHA-256:97fd3e34675d66ac273affb4f1940c6da2530e5aa2fda6cef09e50fa83eb0f5d",
+                "size": "4718592",
                 "boards": [
                   {"name": "RIOT R34 LoRa stamp"}
                 ],
