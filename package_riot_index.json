@@ -53,7 +53,52 @@
                     "version": "1.0.1"
                   }
                 ]
-              }   
+              },
+                 {
+                "name": "RIOT Lora boards",
+                "architecture": "samr",
+                "version": "1.0.10",
+                "category": "RIOT",
+                "url": "https://github.com/riotnetwork/samr/archive/1.0.10.tar.gz",
+                "archiveFileName": "samr-1.0.10.tar.gz",
+                "checksum": "SHA-256:e9ca1f99c9b15efff7398ba2f91aa493434dc5ffe2c4d13612e0575b59e3e350",
+                "size": "4734976",
+                "boards": [
+                  {"name": "RIOT R34 LoRa stamp"}
+                ],
+                "toolsDependencies": [
+                  {
+                    "name": "arm-none-eabi-gcc",
+                    "packager": "arduino",
+                    "version": "7-2017q4"
+                  },
+                  {
+                    "name": "bossac",
+                    "packager": "riot",
+                    "version": "1.9.1-riot"
+                  },
+                  {
+                    "name": "bossac",
+                    "packager": "riot",
+                    "version": "1.7.0-riot"
+                  },
+                  {
+                    "name": "openocd",
+                    "packager": "arduino",
+                    "version": "0.9.0-arduino"
+                  },
+                  {
+                    "name": "CMSIS",
+                    "packager": "riot",
+                    "version": "5.6.0"
+                  },
+                  {
+                    "name": "CMSIS-Atmel",
+                    "packager": "riot",
+                    "version": "1.0.1"
+                  }
+                ]
+              }  
             ],
             "tools": [
             {
