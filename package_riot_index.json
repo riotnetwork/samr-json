@@ -61,7 +61,7 @@
                 "category": "RIOT",
                 "url": "https://github.com/riotnetwork/samr/archive/1.0.10.tar.gz",
                 "archiveFileName": "samr-1.0.10.tar.gz",
-                "checksum": "SHA-256:48ddba8a403485a4f96cd6ee92197940004dc7104090a10cdb48195d3e7a3a7d",
+                "checksum": "SHA-256:e9ca1f99c9b15efff7398ba2f91aa493434dc5ffe2c4d13612e0575b59e3e350",
                 "size": "9465856",
                 "boards": [
                   {"name": "RIOT R34 LoRa stamp"}
